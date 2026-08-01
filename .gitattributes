@@ -1,0 +1,18 @@
+# C/汇编源码
+*.c     text eol=lf
+*.h     text eol=lf
+*.s     text eol=lf
+*.inc   text eol=lf
+
+# Keil MDK工程文件
+*.uvprojx text eol=lf
+*.uvoptx  text eol=lf
+*.uvguix* text eol=lf
+
+# MCU仿真工程
+*.mcuprj text eol=lf
+*.mcuws  text eol=lf
+
+# 二进制/镜像不转换行
+*.bin *.hex *.axf *.elf binary
+*.png *.jpg *.pdf binary

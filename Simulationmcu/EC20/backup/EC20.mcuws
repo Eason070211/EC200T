@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ASCII"?>
+<MCUWorkspace Schema="67" Class="CMCUWorkspace" Path="" PathAbs="" MCUType="1" ActiveProjectIndex="0">
+<MCUProjects>
+<ProjectItem ProjectPath="&amp;ASC8051\8051.mcuprj" ProjectPathAbs="&amp;ASCE:\EC20\Simulationmcu\EC20\8051\8051.mcuprj"/>
+</MCUProjects>
+</MCUWorkspace>
