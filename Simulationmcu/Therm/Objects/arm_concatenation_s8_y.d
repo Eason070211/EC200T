@@ -1,7 +1,0 @@
-./objects/arm_concatenation_s8_y.o: \
-  D:\keil\pack\ARM\CMSIS-NN\7.0.0\Source\ConcatenationFunctions\arm_concatenation_s8_y.c \
-  D:\keil\pack\ARM\CMSIS-NN\7.0.0\Include\arm_nnfunctions.h \
-  D:\keil\pack\ARM\CMSIS-NN\7.0.0\Include\arm_nn_math_types.h \
-  D:\keil\pack\ARM\CMSIS-NN\7.0.0\Include\arm_nn_types.h \
-  D:\keil\pack\ARM\CMSIS-NN\7.0.0\Include\arm_nnsupportfunctions.h \
-  D:\keil\pack\ARM\CMSIS-NN\7.0.0\Include\Internal\arm_nn_compiler.h

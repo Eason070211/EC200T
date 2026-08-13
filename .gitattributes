@@ -13,6 +13,13 @@
 *.mcuprj text eol=lf
 *.mcuws  text eol=lf
 
-# 二进制/镜像不转换行
-*.bin *.hex *.axf *.elf binary
-*.png *.jpg *.pdf binary
+# 二进制/镜像不转换换行
+*.bin binary
+*.hex binary
+*.axf binary
+*.elf binary
+
+# 资源文件
+*.png binary
+*.jpg binary
+*.pdf binary
